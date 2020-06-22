@@ -1,7 +1,7 @@
 # SINGLE-SEASON OCCUPANCY MODEL FOR ODVI IN CHIR 2017 --------------------------
 # Alex Buckisch
 # abuckisch@email.arizona.edu
-# May 2020
+# June 2020
 
 # This script requires 'Camdata_2020.R' script to be loaded into the R environment
 # and run before it will work
