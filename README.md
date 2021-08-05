@@ -1,4 +1,4 @@
-# Occupancy of Terrestrial Mammal Species in US National Parks
+# Occupancy of Terrestrial Mammals in US National Parks
 
 Data and code for occupancy analysis of terrestrial mammal species detected with camera traps in US National Parks.
 
