@@ -6,9 +6,10 @@ These scripts will generate single-season, single-species occupancy models of te
 
 Only code for White-tailed deer in Chiricahua National Monument is uploaded. "CAMDATA_2020.R" is used for data formatting, "[NEW] CHIR_ODVI_2017_2020-05-25.R" is used for occupancy modeling and graph creation. Contact author for other species and National Parks (abuckisch@email.arizona.edu).
 
-#### Influence of Site-covariate on Occupancy Probability
+#### <p align="center"> ---------- Influence of covariates on Occupancy and Detection Probability ---------- </p>
 
-#### Influence of Suvery-covariate on Detection Probability
+![alt text](https://github.com/AlexBuckisch/Occupancy_2020/blob/master/Files/CHIR_ODVI_2017_Elev-Date.png)
 
-#### Distribution Map for Species of Interest based on top Occupancy Model
+#### <p align="center"> ---------- Distribution Map for Species of Interest based on top Occupancy Model ---------- </p>
 
+![alt text](https://github.com/AlexBuckisch/Occupancy_2020/blob/master/Files/CHIR_ODVI_2017_OccuMap.png)
