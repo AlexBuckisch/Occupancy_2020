@@ -405,7 +405,7 @@ fm11 <- occu(~Precip + Date ~Elevation, data = ODVI_umf)
 
 summary(fm11)
 
-# Best model is fm10 - only uses Elevation as a site-covariate and Precip, Date
+# Best model is fm11 - only uses Elevation as a site-covariate and Precip, Date
 # as a observer covariate
 
 # PREDICTING OCCUPANCY AND DETECTION PROBABILITY -------------------------------
