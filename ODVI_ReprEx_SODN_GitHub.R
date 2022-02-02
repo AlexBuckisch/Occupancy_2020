@@ -1,7 +1,7 @@
-# RNR 620 - ASSIGNMENT 5
+# Occupancy Modeling for White-tailed deer at Chiricahua National Monument 2017
 # Alex Buckisch
 # abuckisch@email.arizona.edu
-# May 2020
+# May 2021
 
 # This script will get reproducible occupancy models for presence/absence data
 # of White-tailed deer (Odocoileus virginianus) detected with camera traps at
